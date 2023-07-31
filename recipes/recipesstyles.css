@@ -14,11 +14,19 @@ img {
     font-weight: 800;
 }
 
+
 .subheading{
     color: rgb(241, 55, 55);
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 300;
 }
+
+.topheading{
+    color: rgb(241, 55, 55);
+    font-size: 22px;
+    font-weight: 600;
+}
+
 
 .bullets{
     color: rgb(37, 29, 17);
