@@ -1,0 +1,26 @@
+img {
+    height: auto;
+    width: 200px;
+}
+
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(232, 229, 229);
+    text-align: left;
+}
+
+.heading{
+    background-color: coral;
+    font-weight: 800;
+}
+
+.subheading{
+    color: rgb(241, 55, 55);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.bullets{
+    color: rgb(37, 29, 17);
+    font-size: 15px;
+}
